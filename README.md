@@ -1,10 +1,11 @@
-# <div align="center">Hi 👋, I'm Areej Yaseen</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Areej%20Yaseen&fontSize=38&fontColor=ffffff&fontAlignY=38&fontFamily=Poppins&animation=fadeIn&descAlignY=58&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18" width="100%"/>
+</p>
 
-### <div align="center">🤖 AI/ML Engineer &nbsp;|&nbsp; 💻 Software Developer &nbsp;|&nbsp; 🌐 Full Stack Developer</div>
-### <div align="center">🎭 Deepfake Detection Researcher</div>
+<h3 align="center">🎭 Deepfake Detection Researcher</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=150&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </p>
 
 <p align="center">
@@ -82,6 +83,10 @@ I also build production web platforms — WordPress e-commerce sites, job-search
 ---
 
 ### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="280">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=areejsheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3B82F6&icon_color=14B8A6&text_color=E2E8F0" alt="Areej's GitHub Stats" height="165"/>
