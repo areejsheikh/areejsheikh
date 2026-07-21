@@ -116,8 +116,6 @@ Alongside research work, I build production web platforms — WordPress e-commer
   <img src="https://komarev.com/ghpvc/?username=areejsheikh&style=for-the-badge&color=14B8A6" alt="Profile Views" />
 </p>
 
-> 💡 These cards are served by free, community-run tools — if one shows a broken icon, it's usually just a temporary rate limit on their side, not your repo. Refreshing the page after a minute or two almost always fixes it.
-
 ---
 
 ### 🚀 Featured Projects
