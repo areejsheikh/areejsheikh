@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Areej%20Yaseen&fontSize=35&fontColor=ffffff&fontAlignY=35&fontFamily=Poppins&animation=fadeOut&descAlignY=58&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:14B8A6&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Areej%20Yaseen&fontSize=35&fontColor=ffffff&fontAlignY=35&fontFamily=Poppins&animation=fadeOut&descAlignY=58&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18" width="100%"/>
+  <br>
+  I gaslight my code until it works 😈
 </p>
+
 <p align="center">
   <a href="mailto:areejyaseen417@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.kaggle.com/areejyaseen417"><img src="https://img.shields.io/badge/Kaggle-14B8A6?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -10,11 +13,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a final-year Computer Science student at **FAST NUCES, Lahore**, graduating **December 2026**, working where deep learning meets real-world deployment. My current focus is a **multimodal audio-visual deepfake detection system** — fusing computer vision and audio feature analysis to catch manipulations single-modality models miss.
+I'm a final-year Computer Science student at **FAST NUCES, Lahore**, graduating **December 2026**, working where deep learning meets real-world deployment. My current focus is a **multimodal audio-visual deepfake detection system** fusing computer vision and audio feature analysis to catch manipulations single-modality models miss.
 
-What pulls me toward this space is the gap between a model that works in a notebook and one that works in production. Deepfake detection is a good example: a classifier that performs well on a clean benchmark can fall apart on compressed, re-encoded, real-world video — so a big part of my FYP has been about robustness, not just accuracy on paper.
+What pulls me toward this space is the gap between a model that works in a notebook and one that works in production. Deepfake detection is a good example: a classifier that performs well on a clean benchmark can fall apart on compressed, re-encoded, real-world video so, a big part of my FYP has been about robustness, not just accuracy on paper.
 
-Alongside research work, I build production web platforms — WordPress e-commerce sites, custom job-search engines, security-focused tools — so I care as much about shipping clean, working software as I do about model architecture. Annotating datasets at Jinn Labs has also shaped how I think about model quality: most ML problems are really data quality problems in disguise, and I've seen that first-hand from the labeling side of the pipeline.
+Alongside research work, I build production web platforms WordPress e-commerce sites, custom job-search engines, security-focused tools so, I care as much about shipping clean, working software as I do about model architecture. Annotating datasets at Jinn Labs has also shaped how I think about model quality: most ML problems are really data quality problems in disguise, and I've seen that first-hand from the labeling side of the pipeline.
 
 <table>
 <tr>
@@ -38,14 +41,14 @@ Alongside research work, I build production web platforms — WordPress e-commer
 ### 🌱 What I'm Learning Right Now
 
 - Multimodal fusion techniques for combining audio and visual embeddings in deepfake detectors
-- Model evaluation beyond accuracy — precision/recall tradeoffs on imbalanced manipulated-media datasets
+- Model evaluation beyond accuracy precision/recall tradeoffs on imbalanced manipulated-media datasets
 - Deploying ML models as lightweight, testable services rather than notebook-only experiments
 
 ---
 
 ### 🧠 How I Approach Problems
 
-1. **Start with the data.** Most of my work — from dataset annotation to model evaluation — starts by understanding what's actually in the data before touching a model.
+1. **Start with the data.** Most of my work from dataset annotation to model evaluation starts by understanding what's actually in the data before touching a model.
 2. **Build the boring version first.** A working baseline (even a simple regression or rule-based system) beats an ambitious model that isn't finished.
 3. **Ship it, then improve it.** My web projects follow the same pattern as my ML projects: get something functional in front of users or reviewers, then iterate based on real feedback.
 
@@ -96,8 +99,8 @@ Alongside research work, I build production web platforms — WordPress e-commer
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areejsheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3B82F6&icon_color=14B8A6&text_color=E2E8F0" alt="Areej's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areejsheikh&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=E2E8F0" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-rho-azure-72.vercel.app/api?username=areejsheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=3B82F6&icon_color=14B8A6&text_color=E2E8F0" alt="Areej's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-rho-azure-72.vercel.app/api/top-langs/?username=areejsheikh&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=E2E8F0" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -106,10 +109,6 @@ Alongside research work, I build production web platforms — WordPress e-commer
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=areejsheikh&theme=tokyo-night&hide_border=true&line=3B82F6&color=E2E8F0" alt="Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areejsheikh&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -182,7 +181,7 @@ Apr 2023 — Jul 2023   WordPress Developer @ ZEMTX (Remote)
                       → E-commerce site development, theme customization, SEO
 ```
 
-Each of these roles fed into the next in a different way — the admissions internship sharpened how I communicate with non-technical people, the WordPress work taught me to ship on client timelines, and data annotation gave me a closer look at what makes ML training data succeed or fail before I ever touch a model myself.
+Each of these roles fed into the next in a different way the admissions internship sharpened how I communicate with non-technical people, the WordPress work taught me to ship on client timelines, and data annotation gave me a closer look at what makes ML training data succeed or fail before I ever touch a model myself.
 
 ---
 
@@ -222,10 +221,10 @@ If any of that overlaps with what you're working on, feel free to reach out thro
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:3B82F6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:3B82F6&height=170&section=footer" width="100%"/>
 </p>
 
-<p align="center"><i>✨ Thanks for stopping by — always open to collaborating on ML/AI and web projects!</i></p>
+<p align="center"><i>✨ Thanks for stopping by — Always open to collaborating on ML/AI and web projects!</i></p>
 
 <p align="center">
   <i>
